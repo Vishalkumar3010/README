@@ -1,5 +1,39 @@
 # README
 
+<html>
+<style>
+.cssmarquee {
+height: 50px;
+overflow: hidden;
+position: relative;
+}
+.cssmarquee h1 {
+position: absolute;
+width: 100%;
+height: 100%;
+margin: 0;
+line-height: 50px;
+text-align: left;
+animation: cssmarquee 5s ease-out;
+}
+@keyframes cssmarquee {
+0% {
+transform: translateX(200%);
+}
+100% {
+transform: translateX(0%);
+}
+}
+</style>
+ 
+<div class="cssmarquee">
+<h1>Eurekaaa..Slide-In Text </h1>
+</div>
+<html>
+
+
+
+
 <b>- 👋</b> Hi, I’m @VishalKumar<br>
 <b>- 🌱</b> I’m currently a Data Analyst/Analysis Consultant
 <b>- 👀</b> With over 2 years of hands-on experience in the field, I am a highly skilled and motivated Data Analyst adept at leveraging tools such as Tableau and Power BI to unlock the potential hidden within vast datasets. My expertise lies in translating financial, talent, and operational data into meaningful narratives that drive informed decision-making and strategic workforce planning. I thrive on the challenge of transforming complex data sets into clear, visual representations that empower stakeholders to make data-driven decisions.
