@@ -1,4 +1,4 @@
-# README
+# README.md
 <marquee behavior="scroll" direction="left">
     <h1> 👋 I’m @VishalKumar...</h1>
 </marquee>
