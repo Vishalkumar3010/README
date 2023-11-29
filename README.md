@@ -1,6 +1,5 @@
 # README
 
-<html>
 <style>
 .cssmarquee {
 height: 50px;
@@ -29,7 +28,6 @@ transform: translateX(0%);
 <div class="cssmarquee">
 <h1>Eurekaaa..Slide-In Text </h1>
 </div>
-<html>
 
 
 
