@@ -1,11 +1,11 @@
 # README
 <marquee behavior="scroll" direction="left">
-    <h1> Experienced Data Analyst with a Passion for Transforming Organizational Data into Actionable Insights...</h1>
+    <h1> 👋 I’m @VishalKumar...</h1>
 </marquee>
 
 
 
-<b>- 👋</b> Hi, I’m @VishalKumar<br>
+<b>- 👋</b> Hi i am an Experienced Data Analyst with a Passion for Transforming Organizational Data into Actionable Insights,<br>
 <b>- 🌱</b> I’m currently a Data Analyst/Analysis Consultant<br>
 <b>- 👀</b> With over 2 years of hands-on experience in the field, I am a highly skilled and motivated Data Analyst adept at leveraging tools such as Tableau and Power BI to unlock the potential hidden within vast datasets. My expertise lies in translating financial, talent, and operational data into meaningful narratives that drive informed decision-making and strategic workforce planning. I thrive on the challenge of transforming complex data sets into clear, visual representations that empower stakeholders to make data-driven decisions.<br>
 <b>-💼<b> - Data Analysis: Proficient in performing comprehensive data analyses across financial, talent, and operational domains to extract valuable insights.<br>
