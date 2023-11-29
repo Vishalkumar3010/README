@@ -1,6 +1,6 @@
 # README
 
-<b>- 👋</b> Hi, I’m @VishalKumar
+<b>- 👋</b> Hi, I’m @VishalKumar<br>
 <b>- 🌱</b> I’m currently a Data Analyst/Analysis Consultant
 <b>- 👀</b> With over 2 years of hands-on experience in the field, I am a highly skilled and motivated Data Analyst adept at leveraging tools such as Tableau and Power BI to unlock the potential hidden within vast datasets. My expertise lies in translating financial, talent, and operational data into meaningful narratives that drive informed decision-making and strategic workforce planning. I thrive on the challenge of transforming complex data sets into clear, visual representations that empower stakeholders to make data-driven decisions.
 <b>-💼<b> - Data Analysis: Proficient in performing comprehensive data analyses across financial, talent, and operational domains to extract valuable insights.
